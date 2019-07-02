@@ -1,6 +1,10 @@
 # excel-to-sql
 
-Designing a new database using PostgreSQL. 
+Designing a new database using PostgreSQL.
+
+* **create_sql.sql** - create database schema
+* **insert_sql.ipynb** - interacting sql using python
+* **use_case.sql** - various use case of sql implementation
 
 ## Getting Started
 
