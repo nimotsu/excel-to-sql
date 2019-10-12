@@ -1,6 +1,6 @@
 # excel-to-sql
 
-Designing a new database with PostgreSQL. Data from excel is imported from excel and processes in python before insert into database.
+Designing a new database with PostgreSQL. Data from excel is imported from excel and processed in python before insert into database.
 
 * **create_sql.sql** - create database schema
 * **insert_sql.ipynb** - interacting sql using python
